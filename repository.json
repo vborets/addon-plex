@@ -1,0 +1,14 @@
+{
+  "name": "My Custom Add-ons",
+  "url": "https://github.com/vborets/addon-plex",
+  "maintainer": "vborets",
+  "addons": [
+    {
+      "name": "My Plex Add-on",
+      "description": "Last version PLEX",
+      "icon": "mdi:star",
+      "version": "1.0.0",
+      "slug": "my_awesome_addon"
+    }
+  ]
+}
